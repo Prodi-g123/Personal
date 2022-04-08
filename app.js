@@ -1,4 +1,4 @@
-const phrase = ["Fidel se la come", "y riendo"];
+const phrase = ["Hello World", "from javascript"];
 const text = document.querySelector('p');
 let currentPhrase = [];
 let i = 0;
